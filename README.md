@@ -41,7 +41,7 @@
 I'm **Fardeen Malik**, a passionate and results-driven **Web Developer** from India 🇮🇳  
 🎓 I have completed my **Bachelor of Computer Applications** from *Himalayan Institute of Technology*.  
 💼 Currently working as a **Web Developer**.  
-🌱 I'm always learning and currently exploring **PHP** and **Node.js** in depth.  
+🌱 I'm always learning and currently exploring **React** and **Node.js** in depth.  
 🧠 I love solving problems and building full-stack projects.  
 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-FardeenMalik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen_malik_5b543326a)
 
