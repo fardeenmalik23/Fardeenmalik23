@@ -35,7 +35,7 @@
     </p>
     <ul>
       <li>🎓 Bachelor's in Computer Applications from Himalayan Institute of Technology</li>
-      <li>💻 Currently crafting digital experiences as a professional Web Developer</li>
+      <li>💻 Currently crafting digital experiences as a professional Full Stack Developer</li>
       <li>🌱 Deepening my knowledge in <strong>React Ecosystem</strong> and <strong>Node.js</strong></li>
       <li>🔭 Exploring cloud technologies and microservices architecture</li>
       <li>📫 Let's connect: <a href="mailto:your.email@example.com">fardeenmalik@example.com</a></li>
