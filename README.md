@@ -84,8 +84,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardeenmalik23&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 40%; border-radius: 10px;"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardeenmalik23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; border-radius: 10px;"/>
+<div align="center" style="margin-top:40px;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius:8px; box-shadow:0 0 15px #0aff9d;" />
 </div>
 
 <!-- Activity Graph -->
