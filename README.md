@@ -99,14 +99,3 @@
   <p>Thanks for visiting! Let's build something amazing together.</p>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px"/>
 </div>
-
-<!-- CSS for Hover Effects -->
-<style>
-  .tech-icon {
-    transition: all 0.3s ease;
-  }
-  .tech-icon:hover {
-    transform: scale(1.2) translateY(-5px);
-    filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.6));
-  }
-</style>
