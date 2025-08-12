@@ -26,7 +26,7 @@ I’m **Fardeen Malik**, a passionate **Full-Stack Developer** from India 🇮�
 - 💻 Currently building modern, scalable web apps as a **Full Stack Developer**
 - 🌱 Learning **React Ecosystem** & **Node.js** in depth
 - ☁️ Exploring **cloud technologies** & **microservices**
-- 📫 Reach me at **fardeenmalik@example.com**
+- 📫 Reach me at **www.linkedin.com/in/fardeen-malik02**
 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" style="border-radius:8px;" />
