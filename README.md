@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I’m **Fardeen Malik**, a passionate **Full-Stack Web Developer** from India 🇮🇳.
+I’m **Fardeen Malik**, a passionate **Full-Stack Developer** from India 🇮🇳.
 
 - 🎓 Bachelor’s in Computer Applications – *Himalayan Institute of Technology*
 - 💻 Currently building modern, scalable web apps as a **Full Stack Developer**
