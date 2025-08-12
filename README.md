@@ -41,9 +41,9 @@
       <li>📫 Let's connect: <a href="mailto:your.email@example.com">fardeenmalik@example.com</a></li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100%" style="border-radius: 10px;"/>
-  </div>
+<div align="center" style="margin-top:40px;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius:8px; box-shadow:0 0 15px #0aff9d;" />
+</div>
 </div>
 
 <!-- Tech Stack Section -->
